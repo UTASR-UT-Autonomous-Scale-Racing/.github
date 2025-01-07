@@ -2,29 +2,39 @@
     <img src="logo.png" alt="Logo">
 </p>
 
-    ## Welcome to the UTASR (University of Toronto Scale Racing) Repository!
+<h2>Welcome to the UTASR (University of Toronto Scale Racing) Repository!</h2>
 
-    We are a dedicated group of students focused on the development and innovation of autonomous RC racing. This repository is an internal resource for our development projects, documentation, and collaborative efforts.
+<p>We are a dedicated group of students focused on the development and innovation of autonomous RC racing. This repository is an internal resource for our development projects, documentation, and collaborative efforts.</p>
 
-    ### Our Teams
-    - **Software:**
-        - Data Preprocessing
-        - Machine Learning
-        - Validation / Performance
-        - Web Development
-    - **Hardware:**
-        - Mechanical
-        - Electrical
-        - Firmware
+<h3>Our Teams</h3>
+<ul>
+    <li><strong>Software:</strong>
+        <ul>
+            <li>Data Preprocessing</li>
+            <li>Machine Learning</li>
+            <li>Validation / Performance</li>
+            <li>Web Development</li>
+        </ul>
+    </li>
+    <li><strong>Hardware:</strong>
+        <ul>
+            <li>Mechanical</li>
+            <li>Electrical</li>
+            <li>Firmware</li>
+        </ul>
+    </li>
+</ul>
 
-    ### Contribution Guidelines
-    1. Fork the repository.
-    2. Create a new branch (`git checkout -b feature-branch`).
-    3. Commit your changes (`git commit -am 'Add new feature'`).
-    4. Push to the branch (`git push origin feature-branch`).
-    5. Submit a Pull Request for review.
+<h3>Contribution Guidelines</h3>
+<ol>
+    <li>Fork the repository.</li>
+    <li>Create a new branch (<code>git checkout -b feature-branch</code>).</li>
+    <li>Commit your changes (<code>git commit -am 'Add new feature'</code>).</li>
+    <li>Push to the branch (<code>git push origin feature-branch</code>).</li>
+    <li>Submit a Pull Request for review.</li>
+</ol>
 
-    ### Contact Information
-    For updates and inquiries, please join our Discord server: [UTASR Discord](https://discord.gg/CNnUEMaX).
+<h3>Contact Information</h3>
+<p>For updates and inquiries, please join our Discord server: <a href="https://discord.gg/CNnUEMaX">UTASR Discord</a>.</p>
 
-    Thank you for your contributions and dedication to our projects! - UTASR Design Leads
+<p>Thank you for your contributions and dedication to our projects! - UTASR Design Leads</p>
